@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sherlock-app/static/css/main.a769456d.chunk.css",
+    "main.js": "/sherlock-app/static/js/main.bd783dba.chunk.js",
+    "main.js.map": "/sherlock-app/static/js/main.bd783dba.chunk.js.map",
+    "runtime-main.js": "/sherlock-app/static/js/runtime-main.e621c8af.js",
+    "runtime-main.js.map": "/sherlock-app/static/js/runtime-main.e621c8af.js.map",
+    "static/js/2.16606277.chunk.js": "/sherlock-app/static/js/2.16606277.chunk.js",
+    "static/js/2.16606277.chunk.js.map": "/sherlock-app/static/js/2.16606277.chunk.js.map",
+    "static/js/3.7c68ee1e.chunk.js": "/sherlock-app/static/js/3.7c68ee1e.chunk.js",
+    "static/js/3.7c68ee1e.chunk.js.map": "/sherlock-app/static/js/3.7c68ee1e.chunk.js.map",
+    "index.html": "/sherlock-app/index.html",
+    "static/css/main.a769456d.chunk.css.map": "/sherlock-app/static/css/main.a769456d.chunk.css.map",
+    "static/js/2.16606277.chunk.js.LICENSE.txt": "/sherlock-app/static/js/2.16606277.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e621c8af.js",
+    "static/js/2.16606277.chunk.js",
+    "static/css/main.a769456d.chunk.css",
+    "static/js/main.bd783dba.chunk.js"
+  ]
+}
